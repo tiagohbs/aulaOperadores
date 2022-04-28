@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dio.iml" filepath="$PROJECT_DIR$/dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controladores.iml" filepath="$PROJECT_DIR$/controladores.iml" />
     </modules>
   </component>
 </project>
