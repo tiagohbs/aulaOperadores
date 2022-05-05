@@ -28,7 +28,7 @@ public class ControladoresifElse {
         }else if(num == 9){
             System.out.println("Setembro");
         }else if(num == 10){
-            System.out.println("Ouubro");
+            System.out.println("Outubro");
         }else if(num == 11){
             System.out.println("Novembro");
         }else if(num == 12){

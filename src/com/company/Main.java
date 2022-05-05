@@ -44,8 +44,11 @@ public class Main {
         System.out.println((salarioBaixo) && (muitosDependentes));
 
         boolean recebeAuxilo = (salarioBaixo) && (muitosDependentes);
-        System.out.println("recebeAuxilio " + (recebeAuxilo));
-
+        if (recebeAuxilo) {
+            System.out.println("recebeAuxilio ");
+        } else{
+            System.out.println("Não receberá auxílio");
+        }
 
     }
 }

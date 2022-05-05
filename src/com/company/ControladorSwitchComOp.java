@@ -6,7 +6,7 @@ public class ControladorSwitchComOp {
     public static void main(String[] args) {
         int num = 0;
         Scanner ler = new Scanner(System.in);
-        System.out.println("Aqui o switch sera usado com operadores logicos");
+        System.out.println("Aqui o switch sera usado com operadores lógicos");
         System.out.println("Digite um numero inteiro entre 1 e 5 e veja o resultado: ");
         num = ler.nextInt();
 
